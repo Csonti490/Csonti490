@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm CsontiXD</h1>
 <h3 align="center">A passionate frontend developer from Hungary</h3>
 
-- 🔭 I’m currently working on [fansub](https://github.com/Csonti490/fansub)
+- 🔭 I’m currently working on [akasztofa](https://github.com/Csonti490/akasztofa)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
