@@ -43,7 +43,7 @@
   <li>[🟢] Állapot: aktív, elérhető</li>
   <li>[🌐] Weboldal: <a href="https://csonti490.github.io/akasztofa" target="_blank">https://csonti490.github.io/akasztofa</a></li>
   <li>[🗂️] Github repo: <a href="https://github.com/Csonti490/akasztofa" target="_blank">https://github.com/Csonti490/akasztofa</a></li>
-  <li>[🔧] Technológia: HTML5, CSS3, Javascript</li>
+  <li>[🔧] Technológia: HTML, CSS, Javascript</li>
 </ul>
 
 <h3><a href="https://csonti490.github.io/ReLife" target="_blank">💠 ReLife</a></h3>
@@ -52,7 +52,7 @@
   <li>[🟡] Állapot: folyamatban</li>
   <li>[🌐] Weboldal: <a href="https://csonti490.github.io/ReLife" target="_blank">https://csonti490.github.io/ReLife</a></li>
   <li>[🗂️] Github repo: <a href="https://github.com/Csonti490/ReLife" target="_blank">https://github.com/Csonti490/ReLife</a></li>
-  <li>[🔧] Technológia: HTML5, CSS3, Javascript</li>
+  <li>[🔧] Technológia: HTML, CSS, Javascript</li>
 </ul>
 
 <h3><a href="https://csonti490.github.io/idoszamolo" target="_blank">💠 Időszámoló</a></h3>
@@ -61,7 +61,7 @@
   <li>[🟢] Állapot: aktív, elérhető</li>
   <li>[🌐] Weboldal: <a href="https://csonti490.github.io/idoszamolo" target="_blank">https://csonti490.github.io/idoszamolo</a></li>
   <li>[🗂️] Github repo: <a href="https://github.com/Csonti490/idoszamolo" target="_blank">https://github.com/Csonti490/idoszamolo</a></li>
-  <li>[🔧] Technológia: HTML5, CSS3, Javascript</li>
+  <li>[🔧] Technológia: HTML, CSS, Javascript</li>
 </ul>
 
 <hr>
